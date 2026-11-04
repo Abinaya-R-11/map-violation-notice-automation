@@ -51,4 +51,5 @@ Each generated PDF notice includes:
 * Violation Specifications: Product SKU, product line, authorized LPP ($), advertised listing price ($), and calculated deficit ($).
 * Corrective Action Window: Formal 24-hour price rectification and response terms.
 
+
 ---
